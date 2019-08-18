@@ -1,5 +1,9 @@
 # volume_control
-Control your system volume by your system dbfs
+Is the music volume not fixed and annoying?
+
+![GITHUB](https://cdn.zmescience.com/wp-content/uploads/2012/08/loud-music.jpg)
+
+This program can control your system volume by your system dbfs
 
 # ffmpeg
 donwload ffmpeg and add in path
