@@ -140,5 +140,5 @@ class main():
                     time.sleep(0.1)
         except:
             pass
-#print(sd.query_devices())
+print(sd.query_devices()) # find Stereo mix ( Mine is 2
 main()
