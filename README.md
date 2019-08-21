@@ -18,6 +18,15 @@ pip install simpleaudio
 pip install sounddevice
 pip install scipy
 ```
+# set you stereo Mix
+
+find stereo mix 
+
+![GITHUB](https://i.imgur.com/1D9BEdM.jpg)
+
+and change the system sound (like mine is 2)
+![GITHUB](https://i.imgur.com/qvI3UZx.jpg)
+
 # initialization your volume
 first time initialization will set your volume to 50
 
