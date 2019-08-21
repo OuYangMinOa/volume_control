@@ -20,11 +20,12 @@ pip install scipy
 ```
 # set you stereo Mix
 
-find stereo mix 
+`find stereo mix  ( 立體混音裝置)`
 
 ![GITHUB](https://i.imgur.com/1D9BEdM.jpg)
 
-and change the system sound (like mine is 2)
+`and change the system sound (like mine is 2)`
+
 ![GITHUB](https://i.imgur.com/qvI3UZx.jpg)
 
 # initialization your volume
